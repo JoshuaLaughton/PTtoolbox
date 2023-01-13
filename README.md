@@ -11,4 +11,4 @@ If you have any questions, suggestions or errors to report please email me at jl
 1. Download the latest release of PTtoolbox (currently: v1.0.0) from the releases page of the GitHib respository or from the MATLAB File Exchange.
 2. Open the downloaded MATLAB App Installer (.mlappinstall) file.
 3. Select "Install" when MATLAB asks if you would like to "Install into My Apps".
-4. Select to "APPS" tab in MATLAB and select "PTttoolbox" to start the program.
+4. Select to "APPS" tab in MATLAB and select "PTtoolbox" to start the program.
