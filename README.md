@@ -12,3 +12,5 @@ If you have any questions, suggestions or errors to report please email Joshua L
 2. Open the downloaded MATLAB App Installer (.mlappinstall) file.
 3. Select "Install" when MATLAB asks if you would like to "Install into My Apps".
 4. Select the "APPS" tab in MATLAB and select "PTtoolbox" to start the program.
+
+[![View PTtoolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88341-pttoolbox)
